@@ -28,12 +28,12 @@
 
 ## &nbsp;About Me
 
-I'm a Full Stack PHP Developer with hands-on experience in AI-powered workflow automation using n8n. I build dynamic web applications, integrate APIs, and design intelligent systems that eliminate manual effort — and I'm actively expanding into Node.js, Express, and MongoDB to grow into a complete MERN + PHP developer.
+I'm a Full Stack PHP Developer building production web applications — from industrial dashboards to payment portals — and expanding into AI-powered workflow automation with **n8n**. I enjoy wiring APIs together, designing systems that remove manual work, and shipping things that actually run in production, not just demos.
 
-- 🎯 &nbsp;Goal: Land a junior developer or internship role while building production-ready AI automation systems
-- ⚙️ &nbsp;Currently learning: **Node.js**, **Express.js**, **MongoDB** — expanding backend stack
-- 🤖 &nbsp;Hands-on with: **n8n workflows**, **RAG-based AI agents**, **webhook automation**
-- 🧱 &nbsp;Background: 6+ years teaching computer science — strong foundation, real-world discipline
+- 💼 &nbsp;Currently building full-stack apps in **PHP/MySQL**, with **React** on the frontend for newer products
+- ⚙️ &nbsp;Growing my stack with **Node.js**, **Express.js**, and **MongoDB** — moving toward a full MERN + PHP skillset
+- 🤖 &nbsp;Hands-on with **n8n workflows**, **RAG-based AI agents**, and **webhook automation**
+- 🧱 &nbsp;Background: 6+ years teaching computer science — brings a strong foundation, patience, and real discipline to how I build
 - 📍 &nbsp;Karachi, Pakistan · Open to remote & on-site opportunities
 
 ---
@@ -45,6 +45,7 @@ I'm a Full Stack PHP Developer with hands-on experience in AI-powered workflow a
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 **Backend**
@@ -69,32 +70,41 @@ I'm a Full Stack PHP Developer with hands-on experience in AI-powered workflow a
 
 ---
 
+## &nbsp;What I've Built
+
+- 🏭 &nbsp;**Industrial IIoT dashboards** — real-time production monitoring and plant overview screens for a manufacturing environment
+- 🔧 &nbsp;**CMMS (Computerized Maintenance Management System)** — work order management with role-based dashboards
+- 💳 &nbsp;**React-based payment portal** — a payment product built on Vite, from checkout flow to gateway integration
+- 🔗 &nbsp;**n8n automation pipelines** — Gmail, webhooks, and third-party REST APIs wired into branching, multi-step workflows with AI nodes
+
+---
+
 ## &nbsp;AI & Automation — How I Think
 
-- 🔗 &nbsp;**API integrations**: Gmail, webhooks, third-party REST APIs wired into automated pipelines
 - 🔄 &nbsp;**n8n workflows**: Multi-step flows with branching logic, AI nodes, and conditional triggers
-- 🧠 &nbsp;**RAG-based agents**: Knowledge-driven AI responses — not just prompt engineering, but retrieval-augmented systems
-- ⚡ &nbsp;**Automation mindset**: If a task is repetitive, it should be automated — that's the default
+- 🧠 &nbsp;**RAG-based agents**: Knowledge-driven AI responses — retrieval-augmented, not just prompt engineering
+- 🔗 &nbsp;**API integrations**: Gmail, webhooks, and third-party REST APIs wired into automated pipelines
+- ⚡ &nbsp;**Automation mindset**: if a task is repetitive, it should be automated — that's the default, not an afterthought
 
 ---
 
 ## &nbsp;What I Bring
 
-- ✦ &nbsp;**Real PHP + MySQL experience** — built and shipped actual projects, not just exercises
-- ✦ &nbsp;**Automation-first thinking** — I look for workflow problems before writing a single line
-- ✦ &nbsp;**Fast learner** — currently adding Node.js, Express, and MongoDB to backend arsenal
+- ✦ &nbsp;**Real production experience** — dashboards, CMMS, and payment systems that are actually in use, not just portfolio exercises
+- ✦ &nbsp;**Automation-first thinking** — I look for the workflow problem before writing a single line of code
+- ✦ &nbsp;**Fast learner** — actively adding Node.js, Express, and MongoDB to a proven PHP/MySQL foundation
 - ✦ &nbsp;**Teaching background** — clear communicator, patient debugger, strong documentation habits
-- ✦ &nbsp;**Consistent discipline** — 6 years professional work ethic applied to development
+- ✦ &nbsp;**Consistent discipline** — 6 years of professional work ethic applied to shipping software
 
 ---
 
-## &nbsp;Future Focus
+## &nbsp;Roadmap
 
 ```
-2026 Roadmap
+2026 Focus
 ├── Backend Growth     → Node.js · Express.js · MongoDB (MERN stack)
-├── AI Automation      → Advanced n8n · LangChain · AI Agents · MCP Servers
-└── Career Target      → Junior Full Stack Developer · AI Automation role
+├── AI Automation       → Advanced n8n · LangChain · AI Agents · MCP Servers
+└── Career Target       → Full Stack Developer roles · AI Automation projects
 ```
 
 ---
@@ -103,7 +113,7 @@ I'm a Full Stack PHP Developer with hands-on experience in AI-powered workflow a
 
 ## &nbsp;Let's Connect
 
-Open to internships, junior roles, and freelance automation projects.
+Open to full-stack roles, freelance work, and automation projects — let's talk.
 
 <br/>
 
