@@ -1,196 +1,130 @@
 <div align="center">
 
-# Rabisha Nadeem
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c1d,50:14142b,100:1a1a3a&height=150&section=header&text=Rabisha%20Nadeem&fontSize=38&fontColor=eef0f7&fontAlignY=50&desc=Full%20Stack%20Software%20Developer%20%C2%B7%20AI%20Automation%20(n8n)&descSize=15&descAlignY=70&descColor=9d93e8" width="100%"/>
 
-### Full Stack Software Developer · AI Automation Expert (n8n)
-
-**Building production web applications and intelligent automation systems.**
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1E40AF?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rabisha-nadeem99)
-[![Email](https://img.shields.io/badge/Email-Contact-334155?style=flat-square&logo=gmail&logoColor=white)](mailto:rabisha2698@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-0F172A?style=flat-square&logo=github&logoColor=white)](https://github.com/rabishanadeem)
+<sub>Karachi, Pakistan · Open to remote & on-site roles</sub>
 
 <br/><br/>
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,55:172554,100:312E81&height=130&section=header"
-  width="100%"
-/>
+<a href="https://linkedin.com/in/rabisha-nadeem99"><img src="https://img.shields.io/badge/LinkedIn-14142b?style=flat-square&logo=linkedin&logoColor=8b83e0" /></a>
+<a href="mailto:rabisha2698@gmail.com"><img src="https://img.shields.io/badge/Email-14142b?style=flat-square&logo=gmail&logoColor=8b83e0" /></a>
+<a href="https://github.com/rabishanadeem"><img src="https://img.shields.io/badge/GitHub-14142b?style=flat-square&logo=github&logoColor=8b83e0" /></a>
 
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/rabishanadeem/rabishanadeem/main/dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/rabishanadeem/rabishanadeem/main/light.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/rabishanadeem/rabishanadeem/main/dark.svg"
-      alt="GitHub contribution heatmap"
-      width="100%"
-    />
-  </picture>
-</p>
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rabishanadeem/rabishanadeem/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rabishanadeem/rabishanadeem/main/light.svg">
+  <img alt="Contribution graph" src="https://raw.githubusercontent.com/rabishanadeem/rabishanadeem/main/dark.svg" width="100%">
+</picture>
 
 </div>
 
----
+<br/>
 
 ## About
 
-I'm a **Full Stack Software Developer** focused on building practical web applications, backend systems, payment platforms, industrial dashboards, and AI-powered automation workflows.
+Full stack developer building production web applications — industrial dashboards, maintenance systems, payment portals — and designing workflow automation with **n8n**. I like wiring APIs together, removing manual work, and shipping things that run in production, not demos.
 
-My strongest development areas are **PHP/MySQL**, **React.js**, **Node.js/Express.js**, and **AI automation with n8n**. I'm also expanding my backend ecosystem with **MongoDB** and the broader MERN stack as part of my 2026 growth roadmap.
+- Full-stack development across **PHP/MySQL**, **React.js**, **Node.js**, and **Express.js**
+- Expanding into **MongoDB**, building toward a full MERN + PHP skillset
+- Hands-on with **n8n workflows**, **LLMs**, **RAG-based AI agents**, and **webhook automation**
+- 6+ years teaching computer science before moving into software development
 
-I enjoy turning business requirements into working software, integrating APIs, automating repetitive processes, and building systems designed for real-world use.
+<br/>
 
-**Based in Karachi, Pakistan** · **Open to remote and on-site opportunities**
+## Tech Stack
 
----
+**Frontend**
 
-## Core Focus
+<img src="https://img.shields.io/badge/HTML5-14142b?style=flat-square&logo=html5&logoColor=8b83e0" />
+<img src="https://img.shields.io/badge/CSS3-14142b?style=flat-square&logo=css3&logoColor=8b83e0" />
+<img src="https://img.shields.io/badge/JavaScript-14142b?style=flat-square&logo=javascript&logoColor=8b83e0" />
+<img src="https://img.shields.io/badge/React-14142b?style=flat-square&logo=react&logoColor=8b83e0" />
+<img src="https://img.shields.io/badge/Bootstrap-14142b?style=flat-square&logo=bootstrap&logoColor=8b83e0" />
 
-| | Focus |
+**Backend & Databases**
+
+<img src="https://img.shields.io/badge/PHP-14142b?style=flat-square&logo=php&logoColor=8b83e0" />
+<img src="https://img.shields.io/badge/MySQL-14142b?style=flat-square&logo=mysql&logoColor=8b83e0" />
+<img src="https://img.shields.io/badge/Node.js-14142b?style=flat-square&logo=node.js&logoColor=8b83e0" />
+<img src="https://img.shields.io/badge/Express.js-14142b?style=flat-square&logo=express&logoColor=8b83e0" />
+<img src="https://img.shields.io/badge/MongoDB-14142b?style=flat-square&logo=mongodb&logoColor=8b83e0" />
+
+**AI & Automation**
+
+<img src="https://img.shields.io/badge/n8n-14142b?style=flat-square&logo=n8n&logoColor=22d3ee" />
+<img src="https://img.shields.io/badge/OpenAI-14142b?style=flat-square&logo=openai&logoColor=22d3ee" />
+<img src="https://img.shields.io/badge/LangChain-14142b?style=flat-square&logo=langchain&logoColor=22d3ee" />
+<img src="https://img.shields.io/badge/Webhooks-14142b?style=flat-square&logo=postman&logoColor=22d3ee" />
+
+**Tools**
+
+<img src="https://img.shields.io/badge/Git-14142b?style=flat-square&logo=git&logoColor=8b83e0" />
+<img src="https://img.shields.io/badge/VS%20Code-14142b?style=flat-square&logo=visual-studio-code&logoColor=8b83e0" />
+<img src="https://img.shields.io/badge/Postman-14142b?style=flat-square&logo=postman&logoColor=8b83e0" />
+
+<br/>
+
+## Featured Work
+
+**Industrial IIoT Dashboards**
+Real-time production monitoring and plant overview screens for a manufacturing environment.
+`JavaScript` `Chart.js` `PHP` `MySQL` — built the live data views operators and managers use to track production on the floor.
+
+**CMMS — Maintenance Management System**
+Work order management with role-based dashboards for maintenance teams.
+`PHP` `MySQL` `Bootstrap` — designed the workflow and dashboard logic behind creating, assigning, and tracking work orders.
+
+**Payment Portal**
+A React-based payment product, from checkout flow to gateway integration.
+`React` `Vite` — built the front end and integrated the payment gateway end to end.
+
+**n8n Automation Pipelines**
+Branching, multi-step workflows connecting Gmail, webhooks, and third-party REST APIs, with AI nodes in the loop.
+`n8n` `Webhooks` `REST APIs` — designed the workflow logic and API integrations that remove manual steps.
+
+<br/>
+
+## AI & Automation
+
+- **n8n workflows** — multi-step flows with branching logic, AI nodes, and conditional triggers
+- **RAG-based agents** — retrieval-augmented, knowledge-driven responses rather than prompt-only setups
+- **API integrations** — Gmail, webhooks, and third-party REST APIs wired into automated pipelines
+- Default approach: if a task is repetitive, automate it
+
+<br/>
+
+## What I Bring
+
+- Production experience — dashboards, a CMMS, and a payment portal that are actually in use
+- Full-stack range across PHP/MySQL and a growing MERN skillset
+- API integration and automation work using n8n, LLMs, and RAG-based agents
+- A teaching background — clear communication, patient debugging, and solid documentation habits
+- Consistent delivery, built on 6+ years of professional work
+
+<br/>
+
+## 2026 Roadmap
+
+| Track | Focus |
 |---|---|
-| **Full Stack Development** | PHP/MySQL · React.js · Node.js · Express.js |
-| **AI Automation** | n8n · LLMs · RAG · AI Agents · Webhooks |
-| **Backend & APIs** | REST APIs · API Integrations · Database-driven applications |
-| **Production Systems** | Industrial dashboards · CMMS · Payment platforms · Automation pipelines |
+| **Backend Growth** | Node.js · Express.js · MongoDB (MERN) |
+| **AI Automation** | Advanced n8n · LLMs · RAG Agents · LangChain · MCP Servers |
+| **Career Target** | Full-stack developer roles · AI automation projects |
 
----
+<br/>
 
-# Tech Stack
+## Let's Connect
 
-### Frontend
+Open to full-stack roles, freelance work, and automation projects.
 
-![HTML5](https://img.shields.io/badge/HTML5-0F172A?style=flat-square&logo=html5&logoColor=60A5FA)
-![CSS3](https://img.shields.io/badge/CSS3-0F172A?style=flat-square&logo=css3&logoColor=60A5FA)
-![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=flat-square&logo=javascript&logoColor=60A5FA)
-![React](https://img.shields.io/badge/React-0F172A?style=flat-square&logo=react&logoColor=60A5FA)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0F172A?style=flat-square&logo=bootstrap&logoColor=60A5FA)
+<a href="https://linkedin.com/in/rabisha-nadeem99"><img src="https://img.shields.io/badge/LinkedIn-Connect-14142b?style=for-the-badge&logo=linkedin&logoColor=8b83e0" /></a>
+<a href="mailto:rabisha2698@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-14142b?style=for-the-badge&logo=gmail&logoColor=8b83e0" /></a>
+<a href="https://github.com/rabishanadeem"><img src="https://img.shields.io/badge/GitHub-Follow-14142b?style=for-the-badge&logo=github&logoColor=8b83e0" /></a>
 
-### Backend & Databases
+<br/><br/>
 
-![PHP](https://img.shields.io/badge/PHP-0F172A?style=flat-square&logo=php&logoColor=818CF8)
-![MySQL](https://img.shields.io/badge/MySQL-0F172A?style=flat-square&logo=mysql&logoColor=60A5FA)
-![Node.js](https://img.shields.io/badge/Node.js-0F172A?style=flat-square&logo=node.js&logoColor=60A5FA)
-![Express.js](https://img.shields.io/badge/Express.js-0F172A?style=flat-square&logo=express&logoColor=E2E8F0)
-![MongoDB](https://img.shields.io/badge/MongoDB-0F172A?style=flat-square&logo=mongodb&logoColor=60A5FA)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a3a,50:14142b,100:0f0c1d&height=100&section=footer" width="100%"/>
 
-### AI & Automation
-
-![n8n](https://img.shields.io/badge/n8n-0F172A?style=flat-square&logo=n8n&logoColor=818CF8)
-![OpenAI](https://img.shields.io/badge/OpenAI-0F172A?style=flat-square&logo=openai&logoColor=E2E8F0)
-![LangChain](https://img.shields.io/badge/LangChain-0F172A?style=flat-square&logo=langchain&logoColor=60A5FA)
-![LLMs](https://img.shields.io/badge/LLMs-0F172A?style=flat-square&logo=openai&logoColor=818CF8)
-![Webhooks](https://img.shields.io/badge/Webhooks-0F172A?style=flat-square&logo=webhooks&logoColor=60A5FA)
-
-### Tools & Development
-
-![Git](https://img.shields.io/badge/Git-0F172A?style=flat-square&logo=git&logoColor=60A5FA)
-![VS Code](https://img.shields.io/badge/VS%20Code-0F172A?style=flat-square&logo=visual-studio-code&logoColor=60A5FA)
-![Postman](https://img.shields.io/badge/Postman-0F172A?style=flat-square&logo=postman&logoColor=818CF8)
-
----
-
-# Featured Projects
-
-> A selection of systems spanning industrial software, business applications, payment infrastructure, and workflow automation.
-
-### 01 · Industrial IIoT Dashboards
-
-**Real-time production monitoring and plant overview systems for industrial environments.**
-
-**Problem**
-
-Industrial operations need a centralized view of production status, machine connectivity, performance, efficiency, and operational KPIs.
-
-**Contribution**
-
-Built and enhanced dashboard functionality for real-time plant monitoring, dynamic KPIs, production metrics, machine status, OEE-related data, and operational reporting.
-
-**Technology**
-
-`PHP` `MySQL` `JavaScript` `AJAX` `HTML` `CSS`
-
----
-
-### 02 · CMMS System
-
-**Computerized Maintenance Management System for structured maintenance operations.**
-
-**Problem**
-
-Maintenance activities require a controlled workflow from work-order creation through technician execution, engineer approval, user confirmation, and closure.
-
-**Contribution**
-
-Worked on dynamic statistics, work-order states, assignment and approval workflows, filtering, user management, reporting, forms, and dashboard UX.
-
-**Technology**
-
-`PHP` `MySQL` `JavaScript` `Bootstrap`
-
----
-
-### 03 · React Payment Portal
-
-**Modern payment platform built around a React frontend and Node.js/Express backend.**
-
-**Problem**
-
-Payment operations require secure payment links, customer-facing checkout flows, payment tracking, invoices, authentication, and gateway integration.
-
-**Contribution**
-
-Worked across the frontend and backend, including payment links, QR-based flows, dashboards, authentication, invoices, notifications, user isolation, activity logging, and payment gateway integration.
-
-**Technology**
-
-`React.js` `Vite` `Node.js` `Express.js` `MySQL` `Stripe`
-
----
-
-### 04 · n8n Automation Pipelines
-
-**Multi-step automation workflows connecting business applications, APIs, and AI services.**
-
-**Problem**
-
-Repetitive operational tasks often require information to move between multiple systems manually.
-
-**Contribution**
-
-Designed workflow logic using webhooks, REST APIs, conditional branches, Gmail integrations, AI nodes, and multi-step automation processes.
-
-**Technology**
-
-`n8n` `Webhooks` `REST APIs` `LLMs` `RAG` `API Integrations`
-
----
-
-# AI & Automation
-
-### From APIs to Intelligent Workflows
-
-My AI automation focus is not limited to connecting a few APIs together. The goal is to build workflows that can **receive information, reason over relevant context, make workflow decisions, and execute actions across connected systems.**
-
-```text
-Trigger
-   ↓
-Webhook / Event
-   ↓
-Data Processing
-   ↓
-LLM / RAG / AI Agent
-   ↓
-Conditional Logic
-   ↓
-API Integration
-   ↓
-Action / Response
+</div>
