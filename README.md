@@ -28,11 +28,11 @@
 
 ## &nbsp;About Me
 
-I'm a Full Stack PHP Developer building production web applications — from industrial dashboards to payment portals — and expanding into AI-powered workflow automation with **n8n**. I enjoy wiring APIs together, designing systems that remove manual work, and shipping things that actually run in production, not just demos.
+I'm a Full Stack Software Developer and AI Automation Expert building production web applications — from industrial dashboards to payment portals — and designing intelligent workflow automation with **n8n**. I enjoy wiring APIs together, building systems that remove manual work, and shipping things that actually run in production, not just demos.
 
-- 💼 &nbsp;Currently building full-stack apps in **PHP/MySQL**, with **React** on the frontend for newer products
-- ⚙️ &nbsp;Growing my stack with **Node.js**, **Express.js**, and **MongoDB** — moving toward a full MERN + PHP skillset
-- 🤖 &nbsp;Hands-on with **n8n workflows**, **RAG-based AI agents**, and **webhook automation**
+- 💼 &nbsp;Full-stack development across **PHP/MySQL**, **React.js**, **Node.js**, and **Express.js**
+- ⚙️ &nbsp;Growing my stack with **MongoDB** — moving toward a full MERN + PHP skillset
+- 🤖 &nbsp;**AI Automation Expert**: hands-on with **n8n workflows**, **LLMs**, **RAG-based AI agents**, and **webhook automation**
 - 🧱 &nbsp;Background: 6+ years teaching computer science — brings a strong foundation, patience, and real discipline to how I build
 - 📍 &nbsp;Karachi, Pakistan · Open to remote & on-site opportunities
 
@@ -60,6 +60,8 @@ I'm a Full Stack PHP Developer building production web applications — from ind
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LLM](https://img.shields.io/badge/LLMs-4B5563?style=flat-square&logo=openai&logoColor=white)
 ![Webhooks](https://img.shields.io/badge/Webhooks-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 **Tools**
@@ -91,8 +93,8 @@ I'm a Full Stack PHP Developer building production web applications — from ind
 ## &nbsp;What I Bring
 
 - ✦ &nbsp;**Real production experience** — dashboards, CMMS, and payment systems that are actually in use, not just portfolio exercises
-- ✦ &nbsp;**Automation-first thinking** — I look for the workflow problem before writing a single line of code
-- ✦ &nbsp;**Fast learner** — actively adding Node.js, Express, and MongoDB to a proven PHP/MySQL foundation
+- ✦ &nbsp;**Full-stack range** — comfortable across PHP/MySQL and the MERN stack (React.js, Node.js, Express.js, MongoDB)
+- ✦ &nbsp;**AI automation expertise** — n8n, LLMs, and RAG-based agents used to eliminate manual work, not just as a buzzword
 - ✦ &nbsp;**Teaching background** — clear communicator, patient debugger, strong documentation habits
 - ✦ &nbsp;**Consistent discipline** — 6 years of professional work ethic applied to shipping software
 
@@ -103,8 +105,8 @@ I'm a Full Stack PHP Developer building production web applications — from ind
 ```
 2026 Focus
 ├── Backend Growth     → Node.js · Express.js · MongoDB (MERN stack)
-├── AI Automation       → Advanced n8n · LangChain · AI Agents · MCP Servers
-└── Career Target       → Full Stack Developer roles · AI Automation projects
+├── AI Automation       → Advanced n8n · LLMs · RAG Agents · LangChain · MCP Servers
+└── Career Target       → Full Stack Software Developer roles · AI Automation projects
 ```
 
 ---
